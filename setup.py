@@ -52,7 +52,7 @@ tests_require = all_deps + [
 ]
 
 setup(
-    name='smart_open',
+    name='braingeneers_smart_open',
     version=__version__,
     description='Utils for streaming large files (S3, HDFS, GCS, Azure Blob Storage, gzip, bz2...)',
     long_description=read('README.rst'),
