@@ -62,8 +62,8 @@ setup(
     maintainer='Radim Rehurek',
     maintainer_email='me@radimrehurek.com',
 
-    url='https://github.com/piskvorky/smart_open',
-    download_url='http://pypi.python.org/pypi/smart_open',
+    url='https://github.com/braingeneers/smart_open',
+    download_url='http://pypi.python.org/pypi/braingeneers_smart_open',
 
     keywords='file streaming, s3, hdfs, gcs, azure blob storage',
 
