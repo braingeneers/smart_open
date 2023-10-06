@@ -1,6 +1,6 @@
-======================================================
-smart_open — utils for streaming large files in Python
-======================================================
+====================================================================================
+braingeneers_smart_open — utils for streaming large files in Python for Braingeneers
+====================================================================================
 
 
 |License|_ |GHA|_ |Coveralls|_ |Downloads|_
@@ -14,6 +14,15 @@ smart_open — utils for streaming large files in Python
 .. _Coveralls: https://coveralls.io/github/RaRe-Technologies/smart_open?branch=HEAD
 .. _Downloads: https://pypi.org/project/smart-open/
 
+Disclaimer
+==========
+
+This is a fork of RaRe-Technologies/smart_open!
+
+This fork is intended to be used ONLY for projects within the
+`Braingeneers <https://github.com/braingeneers>`_ organization.
+
+These changes were originally located at `davidparks21/smart_open <https://github.com/davidparks21/smart_open>`_.
 
 What?
 =====
