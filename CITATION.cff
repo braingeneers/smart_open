@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "David"
+  given-names: "Parks"
+- family-names: "Cordero"
+  given-names: "Core"
+  orcid: "https://orcid.org/0000-0002-3531-3221"
+- family-names: "Don"
+  given-names: "Setiawan"
+  orcid: "https://orcid.org/0000-0002-1624-2667"
+title: "braingeneers-smart-open"
+doi: 10.5281/zenodo.10049448
+version: v2023.10.27
+date-released: 2023-10-27
+url: "https://github.com/braingeneers/smart_open"
