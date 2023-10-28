@@ -3,18 +3,20 @@ braingeneers_smart_open — utils for streaming large files in Python for Braing
 ====================================================================================
 
 
-|License|_ |GHA|_ |Coveralls|_ |Downloads|_
+|License|_ |GHA|_ |Coveralls|_ |Downloads|_ |DOI|_
 
 .. |License| image:: https://img.shields.io/pypi/l/smart_open.svg
 .. |GHA| image:: https://github.com/RaRe-Technologies/smart_open/workflows/Test/badge.svg
 .. |Coveralls| image:: https://coveralls.io/repos/github/RaRe-Technologies/smart_open/badge.svg?branch=develop
 .. |Downloads| image:: https://pepy.tech/badge/smart-open/month
+.. |DOI| image:: https://zenodo.org/badge/701559021.svg
 .. _License: https://github.com/RaRe-Technologies/smart_open/blob/master/LICENSE
 .. _GHA: https://github.com/RaRe-Technologies/smart_open/actions?query=workflow%3ATest
 .. _Coveralls: https://coveralls.io/github/RaRe-Technologies/smart_open?branch=HEAD
 .. _Downloads: https://pypi.org/project/smart-open/
+.. _DOI: https://zenodo.org/badge/latestdoi/701559021
 
-[![DOI](https://zenodo.org/badge/701559021.svg)](https://zenodo.org/badge/latestdoi/701559021)
+[![DOI](https://zenodo.org/badge/701559021.svg)]()
 
 Disclaimer
 ==========
