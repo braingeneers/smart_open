@@ -13,6 +13,7 @@ braingeneers_smart_open — utils for streaming large files in Python for Braing
 .. _GHA: https://github.com/RaRe-Technologies/smart_open/actions?query=workflow%3ATest
 .. _Coveralls: https://coveralls.io/github/RaRe-Technologies/smart_open?branch=HEAD
 .. _Downloads: https://pypi.org/project/smart-open/
+
 [![DOI](https://zenodo.org/badge/701559021.svg)](https://zenodo.org/badge/latestdoi/701559021)
 
 Disclaimer
