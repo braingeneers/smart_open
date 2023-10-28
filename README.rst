@@ -16,8 +16,6 @@ braingeneers_smart_open — utils for streaming large files in Python for Braing
 .. _Downloads: https://pypi.org/project/smart-open/
 .. _DOI: https://zenodo.org/badge/latestdoi/701559021
 
-[![DOI](https://zenodo.org/badge/701559021.svg)]()
-
 Disclaimer
 ==========
 
